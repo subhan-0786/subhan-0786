@@ -1,3 +1,4 @@
+## About Me
 
 I am a versatile Computer Science Engineer passionate about leveraging innovative technologies to create impactful solutions. Currently pursuing a Bachelor’s degree in Computer and Information Sciences at the Pakistan Institute of Engineering and Applied Sciences, I excel in quickly mastering new technologies and delivering high-quality code.
 
