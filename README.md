@@ -80,30 +80,35 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <p><strong><em>Let's connect</em></strong></p>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/Subhanamjad" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://discord.com/users/your-discord-id" target="_blank">
+  <a href="https://discord.com/users/1047517108398981211" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
   <a href="mailto:subhanamjad507@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
-  <a href="https://www.medium.com/@your-medium-profile" target="_blank">
+  <a href="https://www.medium.com/@subhanamjad507" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo" />
   </a>
-  <a href="https://leetcode.com/your-leetcode-profile" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/leetcode/default.svg" width="52" height="40" alt="leetcode logo" />
+  <a href="https://leetcode.com/subhannn" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="52" height="40" alt="leetcode logo" />
   </a>
-  <a href="https://stackoverflow.com/users/your-stackoverflow-profile" target="_blank">
+  <a href="https://stackoverflow.com/users/21483206/subhan-amjad" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo" />
   </a>
-  <a href="https://www.facebook.com/your-facebook-profile" target="_blank">
+  <a href="https://www.facebook.com/subhan.786" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
   </a>
-  <a href="https://www.instagram.com/your-instagram-profile" target="_blank">
+  <a href="https://www.instagram.com/subhan._0786" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
 </div>
+
 
 ###
