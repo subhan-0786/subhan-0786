@@ -1,4 +1,6 @@
-<div align="center">
+<div align = "left" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="subhanamjad" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/subhanamjad?trk=profile-badge">Subhan Amjad</a></div>
+              
+<div align="right">
   <img height="150" src="banner.png" />
 </div>
 
